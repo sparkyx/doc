@@ -17,4 +17,4 @@ Le github du module YunoHost est [ici](https://github.com/YunoHost-Apps/noalyss_
 
 Vous pouvez essayer le projet [ici](http://demo.noalyss.eu/index.php) avec les identifiants : demo /demo
 
-Enfin pour ne pas galérer comme moi. Les identifiants et mot de passe administrateur lors de la première connexion sont : phpcompta / phpcompta
+L'utilisateur principal et le mot de passe sont créés lors de la première installation, pensez à les noter.
